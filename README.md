@@ -23,11 +23,11 @@ ___________
 
 
 ## Tech Overview 💻
-*Oculus Quest 2
-*Unity
-*C#
-*InWorld AI
-*Natural Language Model
+* Oculus Quest 2
+* Unity
+* C#
+* InWorld AI
+* Natural Language Model
 
 ### ✨ Contributors ✨
 * Michael Adeleke (AAdvantage Yes)
