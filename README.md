@@ -8,7 +8,7 @@ ___________
 # Project Name
 
 ## Challenge Statement(s) Addressed 🎯
-*How can we engage users to properly follow safety protocols?
+*How can we engage users to properly follow airline safety protocols?
 
 *How can we get users to pay attention while airline safety instructions are being given?
 
@@ -16,32 +16,31 @@ ___________
 
 
 ## Project Description 🤯
-**....at lease 3 sentences describing what the project does and how it works**
+**Embark on an immersive virtual reality journey to master in-flight emergency response. Our innovative VR experience guides you through American Airlines’ pre-flight safety demonstrations, building your confidence and preparedness for onboard crises. With realistic scenarios and interactive training, you'll gain practical skills to ensure the safety and well-being of both yourself and fellow passengers in unexpected situations, making your air travel experiences more secure and empowering.**
 
 ## Project Value 💰
-**....at lease 3 sentences describing your target customer and tangible benefits from your solution**
+**The VR experience seems to cater to a broad audience, including those seeking education, training, or simply a more engaging way to understand and prepare for in-flight emergencies. However, it may primarily target those with an interest in aviation and air travel, as well as individuals looking to enhance their safety knowledge while making their flight experiences more enjoyable and secure.**
 
 
 ## Tech Overview 💻
-**... what tech was used to bring this project to life?**
-
-Example:
-* FastAPI
-* Hugging Face AI Models
-* Next.js
-
+*Oculus Quest 2
+*Unity
+*C#
+*InWorld AI
+*Natural Language Model
 
 ### ✨ Contributors ✨
-**...tell the world who you and your team are 🙂**
-* Team member X (AAdvantage No)
-* Team member Y (AAdvantage No)
-* Team member Z (AAdvantage No)
+* Michael Adeleke (AAdvantage Yes)
+* Clyde Tandjong (AAdvantage Yes)
+* Terrell Reed (AAdvantage Yes)
+* Vingram Ingram (AAdvantage Yes)
+* Andrew Kelly (AAdvantage Yes)
 
 ### School Name 🏫
-The ABC School
+Morgan State University
 
 ### Team Name 🏷
-Coding Costars
+Team Hax-Lab
 
 ### Link to Video Pitch 📹
 **...point us to where you tell us about your solution 😄**
