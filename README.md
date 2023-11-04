@@ -8,7 +8,10 @@ ___________
 # Project Name
 
 ## Challenge Statement(s) Addressed 🎯
-**...include the challenge statement(s) the project worked to address**
+*How can we engage users to properly follow safety protocols?
+*How can we get users to pay attention while airline safety instructions are being given?
+*How can virtual reality solve the problem of attentiveness while safety instructions are being given?
+
 
 Examples:
 * How might we decrease the United States chances of alien and monster attacks given what we know from popular alien and monster movies?
