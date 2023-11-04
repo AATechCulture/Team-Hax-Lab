@@ -54,7 +54,7 @@ Team Hax-Lab
 - [x] Communication established with mentor
 - [x] Repo creation from this template
 - [x] Hangar registration
-- [] Scavenger Hunt submission
+- [ ] Scavenger Hunt submission
 
 ### Project Checklist due before 10a Sunday 11/5 🏁
 - [ ] Presentation complete and linked
