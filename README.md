@@ -5,7 +5,7 @@ This is a repository template containing all the information that needs to accom
 
 Feel free to use any languages or frameworks, but the following information must be filled out before hacking ends.
 ___________
-# Project Name
+# AA SkySafe Simulation
 
 ## Challenge Statement(s) Addressed 🎯
 *How can we engage users to properly follow airline safety protocols?
