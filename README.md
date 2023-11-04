@@ -9,14 +9,11 @@ ___________
 
 ## Challenge Statement(s) Addressed 🎯
 *How can we engage users to properly follow safety protocols?
+
 *How can we get users to pay attention while airline safety instructions are being given?
+
 *How can virtual reality solve the problem of attentiveness while safety instructions are being given?
 
-
-Examples:
-* How might we decrease the United States chances of alien and monster attacks given what we know from popular alien and monster movies?
-* How might we make it possible for people in cities not to have to own a car by making car-sharing easier so that the environment will be less damaged and people can save money?
-* How might we ....
 
 ## Project Description 🤯
 **....at lease 3 sentences describing what the project does and how it works**
