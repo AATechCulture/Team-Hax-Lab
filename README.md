@@ -32,7 +32,7 @@ ___________
 
 ### ✨ Contributors ✨
 * Michael Adeleke (M2CP772)
-* Clyde Tandjong (AAdvantage Yes)
+* Clyde Tandjong (J7MM140)
 * Terrell Reed (AAdvantage Yes)
 * Vingram Ingram (AAdvantage Yes)
 * Andrew Kelly (U9XN774)
