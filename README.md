@@ -8,11 +8,11 @@ ___________
 # AA SkySafe Simulation
 
 ## Challenge Statement(s) Addressed 🎯
-*How can we engage users to properly follow airline safety protocols?
+* How can we engage users to properly follow airline safety protocols?
 
-*How can we get users to pay attention while airline safety instructions are being given?
+* How can we get users to pay attention while airline safety instructions are being given?
 
-*How can virtual reality solve the problem of attentiveness while safety instructions are being given?
+* How can virtual reality solve the problem of attentiveness while safety instructions are being given?
 
 
 ## Project Description 🤯
