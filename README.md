@@ -28,6 +28,7 @@ ___________
 * C#
 * InWorld AI
 * Natural Language Model
+* Flight Engine API
 
 ### ✨ Contributors ✨
 * Michael Adeleke (AAdvantage Yes)
