@@ -35,7 +35,7 @@ ___________
 * Clyde Tandjong (AAdvantage Yes)
 * Terrell Reed (AAdvantage Yes)
 * Vingram Ingram (AAdvantage Yes)
-* Andrew Kelly (AAdvantage Yes)
+* Andrew Kelly (U9XN774)
 
 ### School Name 🏫
 Morgan State University
