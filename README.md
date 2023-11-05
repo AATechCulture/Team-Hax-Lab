@@ -37,7 +37,7 @@ Morgan State University
 Team Hax-Lab
 
 ### Link to Video Pitch 📹
-https://drive.google.com/file/d/1Ru5DMZqO8nF06sjbXNB-NYB77Sd4utp6/view?usp=sharing
+https://drive.google.com/file/d/11X41YypB_-iDzofh9t-oNGOG9O008_Xa/view?usp=drive_link
 
 ### Link to Demo Presentation 📽
 https://docs.google.com/presentation/d/1E0QUl_aR7QNNwZDU7FCOVE2B8jQjBGIQ/edit?usp=sharing&ouid=101659872204828665334&rtpof=true&sd=true
