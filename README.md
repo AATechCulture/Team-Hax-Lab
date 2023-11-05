@@ -31,7 +31,7 @@ ___________
 * Flight Engine API
 
 ### ✨ Contributors ✨
-* Michael Adeleke (AAdvantage Yes)
+* Michael Adeleke (M2CP772)
 * Clyde Tandjong (AAdvantage Yes)
 * Terrell Reed (AAdvantage Yes)
 * Vingram Ingram (AAdvantage Yes)
