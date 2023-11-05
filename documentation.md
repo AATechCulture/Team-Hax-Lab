@@ -3,7 +3,7 @@
 ## Description
 This file contains all of the essential documentation for you to use the AA SkySafe Simulation successfully!
 
-## In the development of our pre-flight safety demonstration in virtual reality (VR), we leveraged several key technologies to create an immersive and engaging experience. Here are the technologies that played a pivotal role in our project:
+# In the development of our pre-flight safety demonstration in virtual reality (VR), we leveraged several key technologies to create an immersive and engaging experience. Here are the technologies that played a pivotal role in our project:
 
 *In-World AI
 In-World AI brings an added layer of interactivity and realism to our VR safety demonstration. We've integrated AI characters that act as virtual flight attendants, guiding users through the safety procedures. This AI can respond to user actions and questions, making the experience more dynamic and educational.
@@ -64,7 +64,7 @@ Choose a location to save the built executable (.exe) file and click "Save."
 Locate the saved .exe file on your computer.
 Double-click the .exe file to run your Unity project outside of the Unity Editor.
 
-### Controls for The AA SkySafe Simulation?
+## Controls for The AA SkySafe Simulation?
 
 * Joystick - Allows user to look around the plane
 * Trigger/A - Grab objects within the airplane environment
