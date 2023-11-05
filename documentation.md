@@ -9,19 +9,19 @@ In the development of our pre-flight safety demonstration in virtual reality (VR
   
 In-World AI brings an added layer of interactivity and realism to our VR safety demonstration. We've integrated AI characters that act as virtual flight attendants, guiding users through the safety procedures. This AI can respond to user actions and questions, making the experience more dynamic and educational.
 
-* Ready Player Me
+### Ready Player Me
   
 Ready Player Me is an avatar creation platform that enhances user engagement in our VR environment. Users can create personalized avatars, making the experience more relatable and enjoyable. This integration adds a social aspect to the VR safety demonstration, as users can see and interact with each other through their avatars.
 
-* PlayHT
+### PlayHT
   
 PlayHT is a valuable technology for enhancing the interactivity and engagement of our VR application. It allows users to interact with objects and elements in the VR environment, making the safety demonstration more hands-on and immersive.
 
-* Unity and C#
+### Unity and C#
   
 Unity, combined with the programming language C#, forms the core of our development environment. Unity is a versatile game engine that allows us to build and deploy our VR experience efficiently. C# is the programming language used to script and code the functionality of the VR environment, including interactions and AI behavior.
 
-* Oculus Quest 2
+### Oculus Quest 2
   
 The Oculus Quest 2 is the VR hardware platform we selected for our project. It offers a wireless, standalone VR experience, making it accessible and user-friendly. The headset and controllers provide a high-quality VR experience, making it the perfect choice for our safety demonstration.
 
