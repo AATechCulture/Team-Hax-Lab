@@ -34,7 +34,7 @@ ___________
 * Michael Adeleke (M2CP772)
 * Clyde Tandjong (J7MM140)
 * Terrell Reed (J430UY0)
-* Vingram Ingram (AAdvantage Yes)
+* Vingram Ingram (J7RL776)
 * Andrew Kelly (U9XN774)
 
 ### School Name 🏫
