@@ -5,7 +5,7 @@ This file contains all of the essential documentation for you to use the AA SkyS
 
 In the development of our pre-flight safety demonstration in virtual reality (VR), we leveraged several key technologies to create an immersive and engaging experience. Here are the technologies that played a pivotal role in our project:
 
-* In-World AI 
+### In-World AI 
   
 In-World AI brings an added layer of interactivity and realism to our VR safety demonstration. We've integrated AI characters that act as virtual flight attendants, guiding users through the safety procedures. This AI can respond to user actions and questions, making the experience more dynamic and educational.
 
