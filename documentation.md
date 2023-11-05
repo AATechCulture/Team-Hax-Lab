@@ -2,6 +2,7 @@
 
 ## Description
 This file contains all of the essential documentation for you to use the AA SkySafe Simulation successfully!
+
 In the development of our pre-flight safety demonstration in virtual reality (VR), we leveraged several key technologies to create an immersive and engaging experience. Here are the technologies that played a pivotal role in our project:
 
 * In-World AI
