@@ -47,7 +47,7 @@ Team Hax-Lab
 **...point us to where you tell us about your solution 😄**
 
 ### Link to Demo Presentation 📽
-**...point us to your PPT or Canva slides 😍**
+https://docs.google.com/presentation/d/1E0QUl_aR7QNNwZDU7FCOVE2B8jQjBGIQ/edit?usp=sharing&ouid=101659872204828665334&rtpof=true&sd=true
 
 ### Team Checklist due before 5p Saturday 11/4 ✅
 - [x] Team photo
